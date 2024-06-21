@@ -5,6 +5,9 @@
 > [!NOTE]
 > If you have issues using this app or found a bug, please leave a thread on the Issues-Tab! 
 
-## First Release - Early Access v0.0.1
-> not released yet - app is not working in production build
-- First release of the app. Contains only one page currently.
+## Release of `RetroLiveTiming_v0.0.2-ea`
+- BugFix of App-Version `v0.0.1-ea`
+  - fixed a bug where the app would throw an error if another instance is already running
+
+## First Release - RetroLiveTiming_v0.0.1-ea
+- First release of the app. Contains 2 working pages (page 1 and 3)
